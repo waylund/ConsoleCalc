@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.exe
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.exe
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.pdb

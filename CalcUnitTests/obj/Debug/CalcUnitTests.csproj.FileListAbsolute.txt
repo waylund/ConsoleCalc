@@ -1,0 +1,7 @@
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\CalcUnitTests\bin\Debug\CalcUnitTests.dll
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\CalcUnitTests\bin\Debug\CalcUnitTests.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\CalcUnitTests\bin\Debug\ConsoleCalc.exe
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\CalcUnitTests\bin\Debug\ConsoleCalc.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\CalcUnitTests\obj\Debug\CalcUnitTests.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\CalcUnitTests\obj\Debug\CalcUnitTests.dll
+c:\users\daniel\documents\visual studio 2013\Projects\ConsoleCalc\CalcUnitTests\obj\Debug\CalcUnitTests.pdb
