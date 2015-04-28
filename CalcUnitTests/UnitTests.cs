@@ -55,7 +55,7 @@ namespace CalcUnitTests
         public void TestPi()
         {
             decimal pi = ConsoleCalc.calculations.pi(2);
-            Assert.AreEqual("3.14", pi);
+            Assert.AreEqual(3.14M, pi);
         }
     }
 }

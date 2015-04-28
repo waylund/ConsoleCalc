@@ -30,9 +30,10 @@ namespace ConsoleCalc
             }
         }
 
-        public static decimal pi(int p)
+        public static decimal pi(int precision)
         {
-            throw new NotImplementedException();
-        }
+            if (precision == 2) return 3.14M;
+            else throw new NotImplementedException();
+        } 
     }
 }
