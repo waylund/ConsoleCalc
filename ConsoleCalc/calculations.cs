@@ -29,5 +29,10 @@ namespace ConsoleCalc
                 return c;
             }
         }
+
+        public static decimal pi(int p)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

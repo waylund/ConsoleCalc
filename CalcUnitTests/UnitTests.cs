@@ -50,5 +50,12 @@ namespace CalcUnitTests
             }
             Assert.AreEqual("System.ArgumentOutOfRangeException", arg.FullName);
         }
+
+        [TestMethod]
+        public void TestPi()
+        {
+            decimal pi = ConsoleCalc.calculations.pi(2);
+            Assert.AreEqual("3.14", pi);
+        }
     }
 }
